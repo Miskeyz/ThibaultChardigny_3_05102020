@@ -1,0 +1,37 @@
+.pink-btn
+{
+	display: inline-block;
+	@include pink-btn;
+	background: linear-gradient(170deg, $secondary-color 0%, $primary-color 100%);
+	color: $white-color;
+	margin: auto;
+	box-shadow: $ombre-normal;
+	position: relative;
+	z-index: 1;
+
+	&:hover::after, &:focus::after
+	{
+		opacity: 1;
+	}
+
+	&::after
+	{
+		@include pseudo-pos;
+		@include pink-btn;
+		background: linear-gradient(170deg, lighten($secondary-color, 5%) 0%, lighten($primary-color, 5%) 100%);
+		opacity: 0;
+		transition: opacity 300ms;
+		box-shadow: $ombre-survol;
+	}
+}
+
+.restaurant-carte__icon-bg
+{
+	color: $primary-color;
+	position: absolute;
+	font-size: 1.45em;
+	bottom: 35px;
+	right: 25px;
+	z-index: 0;
+	clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0% 100%);
+}
