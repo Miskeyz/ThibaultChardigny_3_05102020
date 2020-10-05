@@ -1,0 +1,53 @@
+.fonctionnement
+{
+	padding: 30px 20px 70px 20px;
+}
+
+.fonctionnement-carte
+{
+	display: flex;
+	color: $black-color;
+	align-items: center;
+	position: relative;
+	padding: 15px 35px;
+	background-color: $section-color;
+	border-radius: 30px;
+	margin-top: 25px;
+	box-shadow: $ombre-normal;
+	z-index: 1;
+
+	&:hover::after, &:focus::after
+	{
+		opacity: 1;
+	}
+
+	&__icon
+	{
+		color: $icon-color;
+		font-size: 1.4em;
+		margin-right: 30px;
+	}
+
+	&__number
+	{
+		position: absolute;
+		top: 27px;
+		left: -10px;
+		background-color: $primary-color;
+		border-radius: 50%;
+		padding: 5px 8.5px;
+		color: $white-color;
+		font-size: 0.8em;
+	}
+
+	&::after
+	{
+		@include pseudo-pos;
+		border-radius: 30px;
+		background-color: lighten($primary-color, 35%);
+		opacity: 0;
+		box-shadow: $ombre-survol;
+		transition: opacity 300ms;
+	}
+
+}
