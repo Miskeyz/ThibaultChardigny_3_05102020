@@ -1,0 +1,19 @@
+{
+  "name": "thibaultchardigny_3_28092020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miskeyz/ThibaultChardigny_3_28092020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miskeyz/ThibaultChardigny_3_28092020/issues"
+  },
+  "homepage": "https://github.com/Miskeyz/ThibaultChardigny_3_28092020#readme"
+}
