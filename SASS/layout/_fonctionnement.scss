@@ -1,6 +1,44 @@
 .fonctionnement
 {
 	padding: 30px 20px 70px 20px;
+
+	@include desktop-only
+	{	
+		width: auto;
+	}
+
+	&__heading
+	{
+		@include tablette-only
+		{
+			margin-bottom: 25px;
+		}
+
+		@include desktop-only
+		{
+			width: $desktop-size;
+			margin: auto;
+			margin-bottom: 25px;
+		}
+	}
+
+	&__grid
+	{
+		@include tablette-only
+		{
+			display: flex;
+			grid-gap: 20px;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
+
+		@include desktop-only
+		{
+			justify-content: space-between;
+			width: $desktop-size;
+			margin: auto;
+		}
+	}
 }
 
 .fonctionnement-carte
@@ -16,16 +54,37 @@
 	box-shadow: $ombre-normal;
 	z-index: 1;
 
+	@include tablette-only
+	{
+		padding: 5px 35px;
+		width: 150px;
+		margin-top: 0;
+	}
+
+	@include desktop-only
+	{
+		width: auto;
+		margin-right: 20px;
+	}
+
 	&:hover::after, &:focus::after
 	{
 		opacity: 1;
 	}
 
+	&:hover &__icon
+	{
+		color: $primary-color;
+	}
+
 	&__icon
 	{
 		color: $icon-color;
+		transition: color 300ms;
 		font-size: 1.4em;
 		margin-right: 30px;
+		position: relative;
+		z-index: 1;
 	}
 
 	&__number
@@ -38,6 +97,16 @@
 		padding: 5px 8.5px;
 		color: $white-color;
 		font-size: 0.8em;
+
+		@include tablette-only
+		{
+			top: 28px;
+		}
+
+		@include desktop-only
+		{
+			top: 20px;
+		}
 	}
 
 	&::after

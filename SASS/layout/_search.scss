@@ -2,6 +2,12 @@
 {
 	background-color: $section-color;
 
+	@include desktop-only
+	{
+		padding-top: 40px;
+		width: auto;
+	}
+
 	&__heading
 	{
 		text-align: center;
@@ -34,6 +40,34 @@
 	padding: 16px 0 16px 0;
 	font-size: 1.08em;
 	box-shadow: inset 0px 70px 10px -70px rgba(0,0,0,0.5);
+	position: relative;
+	z-index: 1;
+
+	&::after
+	{
+		@include pseudo-pos;
+		background-color: lighten($primary-color, 35%);
+		opacity: 0;
+		transition: opacity 300ms;
+		box-shadow: inset 0px 70px 10px -70px rgba(0,0,0,0.7);
+		
+		@include desktop-only
+		{
+			border-radius: 20px;
+		}
+	}
+
+	&:hover::after
+	{
+		opacity: 1;
+	}
+
+	@include desktop-only
+	{
+		width: 25%;
+		margin: auto;
+		border-radius: 20px;
+	}
 
 	&__icon
 	{

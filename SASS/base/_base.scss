@@ -1,0 +1,29 @@
+body
+{
+	width: auto;
+	margin: -20px 0 0 0;
+	font-family: $text-typo;
+}
+
+h1
+{
+	font-family: $logo-typo;
+	font-size: $logo-size;
+	text-align: center;
+}
+
+h3
+{
+	font-size: $h3-size;
+	font-weight: 500;
+}
+
+h4
+{
+	font-family: $logo-typo;
+}
+
+a
+{
+	text-decoration: none;
+}

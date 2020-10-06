@@ -1,0 +1,30 @@
+.header
+{
+	margin-bottom: -20px;
+	position: relative;
+
+	&__heading
+	{
+		padding: 15px 0 5px 0;
+
+		@include desktop-only
+		{
+			font-size: 3em;
+		}
+	}
+
+	&__icon
+	{
+		color: $black-color;
+		position: absolute;
+		top: 36%;
+		left: 6%;
+		font-size: $icon-size;
+
+		&--disabled
+		{
+			display: none;
+		}
+	}
+}
+
