@@ -1,0 +1,50 @@
+@mixin btn-hover($color)
+{
+	background-color: darken($color, 10%);
+}
+
+@mixin pseudo-pos
+{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+}
+
+@mixin pink-btn
+{
+	padding: 15px 20px;
+	border-radius: 40px;
+}
+
+@keyframes heart-anim
+{
+	0%
+	{
+		clip-path: polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%);
+	}
+
+	100%
+	{
+		clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+	}
+}
+
+@mixin tablette-only
+{
+	@media screen and (min-width: 600px)
+	{
+		@content;
+	}
+}
+
+@mixin desktop-only
+{
+	@media screen and (min-width: 1024px)
+	{
+		@content;
+	}
+}
