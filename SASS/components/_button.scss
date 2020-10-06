@@ -25,13 +25,46 @@
 	}
 }
 
-.restaurant-carte__icon-bg
+.heart
+{
+	position: absolute;
+
+	font-size: 1.5em;
+	z-index: 10;
+	cursor: pointer;
+
+	&:hover + .heart-bg
+	{
+		animation: heart-anim 1s both;
+	}
+}
+
+.heart-bg
 {
 	color: $primary-color;
 	position: absolute;
-	font-size: 1.45em;
-	bottom: 35px;
-	right: 25px;
-	z-index: 0;
-	clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0% 100%);
+	font-size: $icon-size;	
+	z-index: 1;
+	clip-path: polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%);
+}
+
+.select-btn
+{
+	position: absolute;
+	top: 20px;
+	right: 0;
+	background-color: $tertiary-color;
+	color: $white-color;
+	font-size: 1.4em;
+	padding: 24px 20px;
+	margin-top: -20px;
+	margin-bottom: -6px;
+	transform: translateX(100%);
+	transition: transform $select-btn-time;
+
+	&__icon
+	{
+		transform: rotate(90deg);
+		transition: transform $icon-rotate-time $icon-delay;
+	}
 }
