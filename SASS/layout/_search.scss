@@ -1,11 +1,14 @@
 .search
 {
 	background-color: $section-color;
+	padding: 0 0 65px 0;
 
 	@include desktop-only
 	{
-		padding-top: 40px;
-		width: auto;
+		width: $desktop-size;
+		margin: auto;
+		padding: 40px 20px;
+		border-radius: 20px;
 	}
 
 	&__heading
@@ -27,7 +30,6 @@
 	{
 		text-align: center;
 		padding-top: 30px;
-		padding-bottom: 65px;
 	}
 }
 
