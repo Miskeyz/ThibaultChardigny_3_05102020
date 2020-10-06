@@ -5,15 +5,15 @@
 
 	@include desktop-only
 	{
-		width: auto;
+		width: $desktop-size;
+		margin: auto;
+		border-radius: 20px 20px 0 0;
 	}
 
 	&__heading
 	{
 		@include desktop-only
 		{
-			width: $desktop-size;
-			margin: auto;
 			margin-bottom: 30px;
 		}
 	}
@@ -25,12 +25,6 @@
 			display: grid;
 			grid-template-columns: repeat(2, 1fr);
 			grid-gap: 20px;
-		}
-
-		@include desktop-only
-		{
-			width: $desktop-size;
-			margin: auto;
 		}
 	}
 }
@@ -51,11 +45,6 @@
 	position: relative;
 	margin-bottom: 20px;
 	z-index: 1;
-
-	@include desktop-only
-	{
-		margin-right: 20px;
-	}
 
 	&::before
 	{
@@ -83,6 +72,11 @@
 		&--palette, &--francaise, &--delice
 		{
 			object-position: 50% 100%;
+
+			@include desktop-only
+			{
+				object-position: 50% 70%;
+			}
 		}
 
 		&--note
