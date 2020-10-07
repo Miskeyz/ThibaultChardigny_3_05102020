@@ -1,0 +1,77 @@
+.loader
+{
+	background-color: $white-color;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 360%;
+	z-index: 9999;
+	cursor: wait;
+	animation: fade-out $fade-out $compteur-time forwards;
+
+	&__container
+	{
+		width: 150px;
+		height: 150px;
+		margin: auto;
+		margin-top: 50vh;
+		transform: translateY(-50%);
+		text-align: center;
+		position: relative;
+
+		&::after
+		{
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-47%, -50%);
+			counter-reset: loading;
+			animation: compteur $compteur-time forwards;
+			content: counter(loading) '%';
+			font-size: 0.8em;
+		}
+	}
+
+	&__circle
+	{
+		border: 2px solid $primary-color;
+		border-right-color: transparent;
+		border-radius: 50%;
+		transform: translate(-50%, -50%);
+		animation: loader-rotate $loader-time ease-in-out infinite alternate;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+
+		@for $i from 1 through 5
+		{
+			&--#{$i}
+			{
+				animation-delay: -#{$i * 0.12}s;
+			}
+		}
+
+		@for $i from 1 through 5
+		{
+			&--size#{$i}
+			{
+				width: $loader-circle-size + $i * ($loader-circle-size/0.8);
+				height: $loader-circle-size + $i * ($loader-circle-size/0.8);
+			}
+		}
+
+		&--secondary
+		{
+			border-color: $secondary-color;
+			border-right-color: transparent;
+		}
+
+		&--tertiary
+		{
+			border-color: $tertiary-color;
+			border-right-color: transparent;
+		}
+		
+	}
+}
