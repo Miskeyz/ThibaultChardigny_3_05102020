@@ -431,16 +431,32 @@ a {
   transition: transform 400ms 100ms;
 }
 
-.loader {
-  background-color: #fff;
+html {
+  position: relative;
+}
+html::before {
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
   width: 100%;
-  height: 360%;
-  z-index: 9999;
-  cursor: wait;
+  height: 100%;
+  background-color: #fff;
+  z-index: 9998;
   animation: fade-out 500ms 5s forwards;
+}
+
+.loader {
+  z-index: 9999;
+  animation: fade-out 500ms 5s forwards;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  margin: auto;
 }
 .loader__container {
   width: 150px;
@@ -1102,7 +1118,7 @@ a {
   padding-right: 60px;
 }
 .menu-carte:hover .select-btn {
-  transform: translateX(0%);
+  transform: translateX(1%);
 }
 .menu-carte:hover .select-btn__icon {
   transform: rotate(360deg);
