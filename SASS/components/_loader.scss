@@ -1,14 +1,27 @@
+.accueil
+{
+	position: relative;
+
+	&::before
+	{
+		@include pseudo-pos;
+		width: 100%;
+		height: 100%;
+		background-color: $white-color;
+		z-index: 9998;
+		animation: fade-out $fade-out $compteur-time forwards;
+	}
+}
+
 .loader
 {
-	background-color: $white-color;
+	z-index: 9999;
+	animation: fade-out $fade-out $compteur-time forwards;
 	position: absolute;
 	top: 0;
-	left: 0;
 	width: 100%;
-	height: 360%;
-	z-index: 9999;
-	cursor: wait;
-	animation: fade-out $fade-out $compteur-time forwards;
+	height: 100%;
+	margin: auto;
 
 	&__container
 	{
