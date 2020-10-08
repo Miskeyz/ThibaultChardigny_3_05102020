@@ -399,6 +399,7 @@ a {
   position: absolute;
   font-size: 1.5em;
   z-index: 1;
+  cursor: pointer;
 }
 .heart:hover + .heart-bg {
   animation: heart-anim 1s both;
@@ -409,7 +410,7 @@ a {
   display: inline-block;
   color: black;
   background-color: #f5f5f5;
-  border: 1px solid #f5f5f5;
+  border: 1px solid #f5f5f6;
   position: absolute;
   z-index: 2;
   clip-path: polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%);
@@ -728,11 +729,23 @@ a {
 }
 .fonctionnement-carte__icon--hover {
   position: absolute;
-  top: 20px;
+  top: 30px;
   left: 35px;
   color: #9356DC;
   opacity: 0;
   transition: opacity 300ms;
+}
+@media screen and (min-width: 600px) {
+  .fonctionnement-carte__icon--hover {
+    top: 29px;
+    left: 35px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .fonctionnement-carte__icon--hover {
+    top: 20px;
+    left: 35px;
+  }
 }
 .fonctionnement-carte__number {
   position: absolute;
@@ -859,7 +872,7 @@ a {
   bottom: 31px;
   right: 19px;
   background-color: #fff;
-  border: 1px solid #fff;
+  border: 1px solid #efffff;
 }
 @media screen and (min-width: 600px) {
   .restaurant-carte__icon-bg {
