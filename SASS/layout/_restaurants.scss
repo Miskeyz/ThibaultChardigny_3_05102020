@@ -51,7 +51,7 @@
 		@include pseudo-pos;
 		z-index: 2;
 		opacity: 0;
-		transition: opacity 300ms;
+		transition: opacity $transition-time;
 		border-radius: 15px;
 		background-color: $white-color;
 		box-shadow: $ombre-survol;
@@ -101,9 +101,29 @@
 		font-weight: 300;
 	}
 
-	&__icon, &__icon-bg
+	&__icon-bg
 	{
-		bottom: 35px;
+		bottom: 31px;
+		right: 19px;
+		background-color: $white-color;
+		border: 1px solid $white-color;
+
+		@include tablette-only
+		{
+			bottom: 44px;
+			right: 19px;
+		}
+
+		@include desktop-only
+		{
+			bottom: 44px;
+			right: 39px;
+		}
+	}
+
+	&__icon
+	{
+		bottom: 34px;
 		right: 20px;
 
 		@include tablette-only
@@ -114,7 +134,7 @@
 
 		@include desktop-only
 		{
-			bottom: 50px;
+			bottom: 48px;
 			right: 40px;
 		}
 	}
