@@ -70,10 +70,28 @@
 		}
 	}
 
-	&__icon, &__icon-bg
+	&__icon-bg
+	{
+		top: 37px;
+		right: 19px;
+
+		@include tablette-only
+		{
+			top: 37px;
+			right: 29px;
+		}
+	}
+
+	&__icon
 	{
 		top: 39px;
-		right: 30px;
+		right: 20px;
+
+		@include tablette-only
+		{
+			top: 39px;
+			right: 30px;
+		}
 	}
 
 	&__sub-heading
