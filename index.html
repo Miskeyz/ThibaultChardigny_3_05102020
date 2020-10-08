@@ -17,7 +17,7 @@
 
 		<!-- Style CSS -->
 
-		<link rel="stylesheet" href="./CSS/style.css" />
+		<link rel="stylesheet" href="./CSS/style_prefixed.css" />
 
 		<!-- Titre de la page -->
 
@@ -39,162 +39,164 @@
 
 		</header>
 
-		<section class="search">
+		<main>
 
-			<a href="#" class="localisation"><i class="fas fa-map-marker-alt localisation__icon"></i> Paris, Belleville</a>
+			<section class="search" aria-label="localisation">
 
-			<h2 class="search__heading">Réservez le menu qui vous convient</h2>
+				<a href="#" class="localisation"><i class="fas fa-map-marker-alt localisation__icon"></i> Paris, Belleville</a>
 
-			<p class="search__txt">Découvrez des restaurants d'exception, séléctionnés par nos soins.</p>
+				<h2 class="search__heading">Réservez le menu qui vous convient</h2>
 
-			<div class="search__btn">
+				<p class="search__txt">Découvrez des restaurants d'exception, séléctionnés par nos soins.</p>
 
-				<a href="#" class="pink-btn">Explorer nos restaurants</a>
+				<div class="search__btn">
 
-			</div>
-
-		</section>
-
-		<section class="fonctionnement">
-
-			<h2 class="fonctionnement__heading">Fonctionnement</h2>
-
-			<div class="fonctionnement__grid">
-
-				<a href="#" class="fonctionnement-carte">
-
-					<div>
-						<i class="fas fa-mobile-alt fonctionnement-carte__icon"></i>
-						<i class="fas fa-mobile-alt fonctionnement-carte__icon fonctionnement-carte__icon--hover"></i>
-					</div>
-
-					<h3 class="fonctionnement-carte__heading">Choisissez un restaurant</h3>
-
-					<span class="fonctionnement-carte__number">1</span>
-
-				</a>
-
-				<a href="#" class="fonctionnement-carte">
-
-					<i class="fas fa-list-ul fonctionnement-carte__icon"></i>
-					<i class="fas fa-list-ul fonctionnement-carte__icon fonctionnement-carte__icon--hover"></i>
-
-					<h3 class="fonctionnement-carte__heading">Composez votre menu</h3>
-
-					<span class="fonctionnement-carte__number">2</span>
-
-				</a>
-
-				<a href="#"class="fonctionnement-carte">
-
-					<i class="fas fa-store fonctionnement-carte__icon"></i>
-					<i class="fas fa-store fonctionnement-carte__icon fonctionnement-carte__icon--hover"></i>
-
-					<h3 class="fonctionnement-carte__heading">Dégustez au restaurant</h3>
-
-					<span class="fonctionnement-carte__number">3</span>
-
-				</a>
-
-			</div>
-
-		</section>
-
-		<section class="restaurants">
-
-			<h2 class="restaurants__heading">Restaurants</h2>
-
-				<div class="restaurants__grid">
-
-					<div class="restaurant-carte-container">
-
-						<a href="menu_1.html" class="restaurant-carte">
-							
-							<img src="./images/restaurants/1.jpg" alt="La palette du goût" class="restaurant-carte__img restaurant-carte__img--palette" />
-
-							<h3 class="restaurant-carte__heading">La palette du goût</h3>
-
-							<p class="restaurant-carte__txt">Ménilmontant</p>
-
-							<span class="restaurant-carte__nouveau">Nouveau</span>
-
-						</a>
-
-						<i class="far fa-heart heart restaurant-carte__icon"></i>
-						<span class="heart-bg restaurant-carte__icon-bg"><i class="fas fa-heart"></i></span>
-
-					</div>
-
-					<div class="restaurant-carte-container">
-
-						<a href="menu_2.html" class="restaurant-carte">
-							
-							<img src="./images/restaurants/2.jpg" alt="La note enchantée" class="restaurant-carte__img restaurant-carte__img--note" />
-
-							<h3 class="restaurant-carte__heading">La note enchantée</h3>
-
-							<p class="restaurant-carte__txt">Charonne</p>
-
-							<span class="restaurant-carte__nouveau">Nouveau</span>
-
-						</a>
-
-						<i class="far fa-heart heart restaurant-carte__icon"></i>
-						<span class="heart-bg restaurant-carte__icon-bg"><i class="fas fa-heart"></i></span>
-
-					</div>
-
-					<div class="restaurant-carte-container">
-
-						<a href="menu_3.html" class="restaurant-carte">
-							
-							<img src="./images/restaurants/3.jpg" alt="À la française" class="restaurant-carte__img restaurant-carte__img--francaise" />
-
-							<h3 class="restaurant-carte__heading">À la française</h3>
-
-							<p class="restaurant-carte__txt">Cité Rouge</p>
-
-						</a>
-
-						<i class="far fa-heart heart restaurant-carte__icon"></i>
-						<span class="heart-bg restaurant-carte__icon-bg"><i class="fas fa-heart"></i></span>
-
-					</div>
-
-					<div class="restaurant-carte-container">
-
-						<a href="menu_4.html" class="restaurant-carte">
-							
-							<img src="./images/restaurants/4.jpg" alt="Le délice des sens" class="restaurant-carte__img restaurant-carte__img--delice" />
-
-							<h3 class="restaurant-carte__heading">Le délice des sens</h3>
-
-							<p class="restaurant-carte__txt">Folie-Méricourt</p>
-						
-						</a>
-
-						<i class="far fa-heart heart restaurant-carte__icon"></i>
-						<span class="heart-bg restaurant-carte__icon-bg"><i class="fas fa-heart"></i></span>
-
-					</div>
+					<a href="#" class="pink-btn">Explorer nos restaurants</a>
 
 				</div>
 
-		</section>
+			</section>
 
-		<div class="loader">
+			<section class="fonctionnement" aria-label="fonctionnement du site">
 
-			<div class="loader__container">
+				<h2 class="fonctionnement__heading">Fonctionnement</h2>
 
-				<div class="loader__circle loader__circle--size1 loader__circle--1"></div>
-				<div class="loader__circle loader__circle--size2 loader__circle--2 loader__circle--secondary"></div>
-				<div class="loader__circle loader__circle--size3 loader__circle--3 loader__circle--tertiary"></div>
-				<div class="loader__circle loader__circle--size4 loader__circle--4"></div>
-				<div class="loader__circle loader__circle--size5 loader__circle--5 loader__circle--secondary"></div>
+				<div class="fonctionnement__grid">
+
+					<a href="#" class="fonctionnement-carte">
+
+							<i class="fas fa-mobile-alt fonctionnement-carte__icon"></i>
+							<i class="fas fa-mobile-alt fonctionnement-carte__icon fonctionnement-carte__icon--hover"></i>
+
+						<h3 class="fonctionnement-carte__heading">Choisissez un restaurant</h3>
+
+						<span class="fonctionnement-carte__number">1</span>
+
+					</a>
+
+					<a href="#" class="fonctionnement-carte">
+
+						<i class="fas fa-list-ul fonctionnement-carte__icon"></i>
+						<i class="fas fa-list-ul fonctionnement-carte__icon fonctionnement-carte__icon--hover"></i>
+
+						<h3 class="fonctionnement-carte__heading">Composez votre menu</h3>
+
+						<span class="fonctionnement-carte__number">2</span>
+
+					</a>
+
+					<a href="#" class="fonctionnement-carte">
+
+						<i class="fas fa-store fonctionnement-carte__icon"></i>
+						<i class="fas fa-store fonctionnement-carte__icon fonctionnement-carte__icon--hover"></i>
+
+						<h3 class="fonctionnement-carte__heading">Dégustez au restaurant</h3>
+
+						<span class="fonctionnement-carte__number">3</span>
+
+					</a>
+
+				</div>
+
+			</section>
+
+			<section class="restaurants" aria-label="choix du restaurant">
+
+				<h2 class="restaurants__heading">Restaurants</h2>
+
+					<div class="restaurants__grid">
+
+						<div class="restaurant-carte-container">
+
+							<a href="menu_1.html" class="restaurant-carte">
+								
+								<img src="./images/restaurants/1.jpg" alt="La palette du goût" class="restaurant-carte__img restaurant-carte__img--palette" />
+
+								<h3 class="restaurant-carte__heading">La palette du goût</h3>
+
+								<p class="restaurant-carte__txt">Ménilmontant</p>
+
+								<span class="restaurant-carte__nouveau">Nouveau</span>
+
+							</a>
+
+							<i class="far fa-heart heart restaurant-carte__icon"></i>
+							<span class="heart-bg restaurant-carte__icon-bg"><i class="fas fa-heart"></i></span>
+
+						</div>
+
+						<div class="restaurant-carte-container">
+
+							<a href="menu_2.html" class="restaurant-carte">
+								
+								<img src="./images/restaurants/2.jpg" alt="La note enchantée" class="restaurant-carte__img restaurant-carte__img--note" />
+
+								<h3 class="restaurant-carte__heading">La note enchantée</h3>
+
+								<p class="restaurant-carte__txt">Charonne</p>
+
+								<span class="restaurant-carte__nouveau">Nouveau</span>
+
+							</a>
+
+							<i class="far fa-heart heart restaurant-carte__icon"></i>
+							<span class="heart-bg restaurant-carte__icon-bg"><i class="fas fa-heart"></i></span>
+
+						</div>
+
+						<div class="restaurant-carte-container">
+
+							<a href="menu_3.html" class="restaurant-carte">
+								
+								<img src="./images/restaurants/3.jpg" alt="À la française" class="restaurant-carte__img restaurant-carte__img--francaise" />
+
+								<h3 class="restaurant-carte__heading">À la française</h3>
+
+								<p class="restaurant-carte__txt">Cité Rouge</p>
+
+							</a>
+
+							<i class="far fa-heart heart restaurant-carte__icon"></i>
+							<span class="heart-bg restaurant-carte__icon-bg"><i class="fas fa-heart"></i></span>
+
+						</div>
+
+						<div class="restaurant-carte-container">
+
+							<a href="menu_4.html" class="restaurant-carte">
+								
+								<img src="./images/restaurants/4.jpg" alt="Le délice des sens" class="restaurant-carte__img restaurant-carte__img--delice" />
+
+								<h3 class="restaurant-carte__heading">Le délice des sens</h3>
+
+								<p class="restaurant-carte__txt">Folie-Méricourt</p>
+							
+							</a>
+
+							<i class="far fa-heart heart restaurant-carte__icon"></i>
+							<span class="heart-bg restaurant-carte__icon-bg"><i class="fas fa-heart"></i></span>
+
+						</div>
+
+					</div>
+
+			</section>
+
+			<div class="loader">
+
+				<div class="loader__container">
+
+					<div class="loader__circle loader__circle--size1 loader__circle--1"></div>
+					<div class="loader__circle loader__circle--size2 loader__circle--2 loader__circle--secondary"></div>
+					<div class="loader__circle loader__circle--size3 loader__circle--3 loader__circle--tertiary"></div>
+					<div class="loader__circle loader__circle--size4 loader__circle--4"></div>
+					<div class="loader__circle loader__circle--size5 loader__circle--5 loader__circle--secondary"></div>
+
+				</div>
 
 			</div>
 
-		</div>
+		</main>
 
 		<footer class="footer">
 
