@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch ./SASS/main.scss:./CSS/style.css"
+    "sass": "sass --watch ./SASS/main.scss:./CSS/style.css",
+    "prefix": "postcss ./CSS/style.css --use autoprefixer -d./CSS/prefixed/"
   },
   "repository": {
     "type": "git",
@@ -12,6 +13,7 @@
   },
   "author": "",
   "license": "ISC",
+  "browserslist": "last 4 versions",
   "bugs": {
     "url": "https://github.com/Miskeyz/ThibaultChardigny_3_28092020/issues"
   },
