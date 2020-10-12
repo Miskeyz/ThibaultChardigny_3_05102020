@@ -29,5 +29,8 @@ $chasing-time: 1s;
 $chasing-delay-cartes: 100ms;
 $chasing-delay-heading: 330ms;
 $loader-time: 2.5s;
-$compteur-time: 5s;
+$compteur-time: 3s;
 $fade-out: 500ms;
+$heart-time: 1000ms;
+
+$counter-content: counter(loading) '%';

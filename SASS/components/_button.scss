@@ -25,40 +25,69 @@
 	}
 }
 
-
 .heart
 {
 	position: absolute;
-	font-size: 1.5em;
-	z-index: 1;
+	font-size: $icon-size;
 	cursor: pointer;
 
-	&:hover + .heart-bg
+	&--menus
 	{
-		animation: heart-anim 1s both;
+		top: 38px;
+		right: 35px;
+	}
+
+	&--cartes
+	{
+		bottom: 31px;
+		right: 25px;
+
+		@include tablette-only
+		{
+			bottom: 45px;
+		}
+
+		@include desktop-only
+		{
+			bottom: 45px;
+			right: 35px;
+		}
+	}
+
+	&:hover .heart__border::after
+	{
+		animation: heart-anim 1s forwards;
+	}
+
+	&:hover .heart__border::before
+	{
+		animation: heart-anim 1s forwards;
+	}
+
+	&__border
+	{
+		position: relative;
+
+		&::after
+		{
+			@include pseudo-pos;
+			background: url(../images/heart-solid.svg) center no-repeat;
+			background-size: 1em;
+			clip-path: polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%);
+			z-index: 1;
+		}
+
+		&::before
+		{
+			@include pseudo-pos;
+			background: linear-gradient(135deg, $secondary-color 0%, $primary-color 100%);
+			mix-blend-mode: screen;
+			clip-path: polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%);
+			z-index: 2;
+		}
 	}
 }
 
-.heart-bg
-{
-	font-size: 1.5em;
-	display: inline-block;
-	color: black;
-	background-color: $section-color;
-	border: 1px solid #f5f5f6;
-	position: absolute;
-	z-index: 2;
-	clip-path: polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%);
-
-	&::before
-	{
-		@include pseudo-pos;
-		background: linear-gradient(50deg, lighten($secondary-color, 5%) 0%, lighten($primary-color, 5%) 100%);
-		display: block;
-		mix-blend-mode: lighten;
-		z-index: 3;
-	}
-}
 
 .select-btn
 {
