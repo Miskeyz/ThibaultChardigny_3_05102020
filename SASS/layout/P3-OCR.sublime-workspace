@@ -1,0 +1,1460 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mentions",
+				"mentions__txt"
+			],
+			[
+				"men",
+				"mentions__heading"
+			],
+			[
+				"mentio",
+				"mentions__heading"
+			],
+			[
+				"menti",
+				"mentions__heading"
+			],
+			[
+				"mention",
+				"mentions__txt"
+			],
+			[
+				"cred",
+				"credits__link"
+			],
+			[
+				"animatio",
+				"animation\tproperty"
+			],
+			[
+				"scl",
+				"scale()\ttransform"
+			],
+			[
+				"loader",
+				"loader-time"
+			],
+			[
+				"anima",
+				"animation-timing-function\tproperty"
+			],
+			[
+				"clip",
+				"clip-path\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"border-right",
+				"border-right-color\tproperty"
+			],
+			[
+				"tr",
+				"translateY()\ttransform"
+			],
+			[
+				"tran",
+				"transform-origin\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"fonctio",
+				"fonctionnement-carte__icon"
+			],
+			[
+				"rest",
+				"restaurant-carte__icon"
+			],
+			[
+				"white",
+				"white-color"
+			],
+			[
+				"heart",
+				"heart-bg1"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"sc",
+				"scale()\ttransform"
+			],
+			[
+				"compteur",
+				"compteur-time"
+			],
+			[
+				"counter",
+				"counter-increment\tproperty"
+			],
+			[
+				"trasfo",
+				"transform\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"animat",
+				"animation\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"obje",
+				"object-position\tproperty"
+			],
+			[
+				"grid",
+				"grid-gap\tproperty"
+			],
+			[
+				"desktop",
+				"desktop-size"
+			],
+			[
+				"object",
+				"object-position\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"overflo",
+				"overflow\tproperty"
+			],
+			[
+				"for",
+				"forwards"
+			],
+			[
+				"chasing",
+				"chasing-time"
+			],
+			[
+				"animation-d",
+				"animation-delay\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"text-o",
+				"text-overflow\tproperty"
+			],
+			[
+				"flex",
+				"flex\tproperty"
+			],
+			[
+				"pre",
+				"pre-wrap\twhite-space"
+			],
+			[
+				"pr",
+				"pre-line\twhite-space"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"sele",
+				"select-btn"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-right\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"menu",
+				"menu-carte"
+			],
+			[
+				"hear",
+				"heart-bg"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"header",
+				"header__icon"
+			],
+			[
+				"con",
+				"restaurant-carte-container"
+			],
+			[
+				"res",
+				"restaurant-carte"
+			],
+			[
+				"deskt",
+				"desktop-size"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"r",
+				"restaurants"
+			],
+			[
+				"log",
+				"logo-typo"
+			],
+			[
+				"f",
+				"footer__link"
+			],
+			[
+				"footer",
+				"footer__puces"
+			],
+			[
+				"transo",
+				"transition\tproperty"
+			],
+			[
+				"restaurant",
+				"restaurant-carte"
+			],
+			[
+				"scla",
+				"scaleY()\ttransform"
+			],
+			[
+				"scale",
+				"scaleY()\ttransform"
+			],
+			[
+				"cart",
+				"restaurant-carte__img"
+			],
+			[
+				"obj",
+				"object-position\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"resta",
+				"restaurant-carte"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"fonction",
+				"fonctionnement-carte"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"ca",
+				"carrousel-btn-tablette"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"bloc",
+				"bloc-box-color"
+			],
+			[
+				"gridtem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"backgrou",
+				"background-attachment\tproperty"
+			],
+			[
+				"hea",
+				"header__btn"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"last",
+				"last-videos__blocpetit"
+			],
+			[
+				"carr",
+				"carrousel-btn-tablette"
+			],
+			[
+				"border",
+				"border-top-color\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"space-",
+				"space-between\tjustify-content"
+			],
+			[
+				"column",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"c",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"vide",
+				"videos__link"
+			],
+			[
+				"form",
+				"formulaire__input"
+			],
+			[
+				"fo",
+				"formulaire__input"
+			],
+			[
+				"musiques",
+				"musiques-grid-4columns"
+			],
+			[
+				"musiqu",
+				"musiques-grid-row1"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"carro",
+				"carrousel-btn-size"
+			],
+			[
+				"social",
+				"social-circle-size"
+			],
+			[
+				"border-bott",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"carrous",
+				"carrousel__btn"
+			],
+			[
+				"carrousel",
+				"carrousel__btn--prev"
+			],
+			[
+				"carous",
+				"caroussel"
+			],
+			[
+				"carouss",
+				"caroussel__list"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"color",
+				"color-white"
+			],
+			[
+				"disco",
+				"disco-card__txt"
+			],
+			[
+				"diso",
+				"disco-card"
+			],
+			[
+				"whi",
+				"color-white"
+			],
+			[
+				"las",
+				"last-videos__txt"
+			],
+			[
+				"s",
+				"scale()\ttransform"
+			],
+			[
+				"ta",
+				"table-cell\tdisplay"
+			],
+			[
+				"head",
+				"header__link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/index.html",
+			"settings":
+			{
+				"buffer_size": 6547,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_1.html",
+			"settings":
+			{
+				"buffer_size": 6201,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_2.html",
+			"settings":
+			{
+				"buffer_size": 6654,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_3.html",
+			"settings":
+			{
+				"buffer_size": 6175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_4.html",
+			"settings":
+			{
+				"buffer_size": 6078,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/main.scss",
+			"settings":
+			{
+				"buffer_size": 313,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/base/_base.scss",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_fonctionnement.scss",
+			"settings":
+			{
+				"buffer_size": 1931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_footer.scss",
+			"settings":
+			{
+				"buffer_size": 1161,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_header.scss",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_restaurants.scss",
+			"settings":
+			{
+				"buffer_size": 2037,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_search.scss",
+			"settings":
+			{
+				"buffer_size": 1112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/components/_button.scss",
+			"settings":
+			{
+				"buffer_size": 1483,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/components/_loader.scss",
+			"settings":
+			{
+				"buffer_size": 1519,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/pages/_menu.scss",
+			"settings":
+			{
+				"buffer_size": 3261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/utils/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 1139,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/utils/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 725,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 342.0,
+		"history":
+		[
+			"npm init"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/base/_typographie.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/base/_typography.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/utils/_variables.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/css/style_prefixed.css",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/utils/_mixins.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/pages/_contact.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/pages/_mentions_legales.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/pages/_videos.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/pages/_photos.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/pages/_musiques.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/layout/_header.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/layout/_footer.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/layout/_content.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/components/_button.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/components/_loader.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/base/_base.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/sass/main.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/mentions_legales.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/videos.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/photos.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/musiques.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/contact.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/loader.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/home.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/index.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/erreur404.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/test/test.php",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/components/_loader.scss",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/package.json",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/testing.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/test.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/package.json",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/css/prefixed/style.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_2_17092020/package.json",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/css/style.css",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/php/mail.php",
+		"/Applications/MAMP/htdocs/Site/form.php",
+		"/Applications/MAMP/htdocs/PHP/tp_blog/Blog_voyage/inscription.php",
+		"/Applications/MAMP/htdocs/Site/contact.php",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/base/_base.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/index.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/utils/_variables.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/utils/_mixins.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/layout/_search.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/layout/_restaurants.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/layout/_header.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/layout/_footer.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/layout/_fonctionnement.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/pages/_menu.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_4.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_3.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_2.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_1.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_2_17092020/prefixed/style.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_2_17092020/style.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_2_17092020/index.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/utils/_variables.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/utils/_mixins.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/layout/_search.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/main.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/layout/_footer.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/components/_button.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/layout/_restaurants.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/pages/_menu.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/layout/_header.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/base/_base.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/CSS/style.css",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Cours/Animations CSS/main.scss",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Cours/Animations CSS/index.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/sass/layout/_fonctionnement.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/main.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/.git/COMMIT_EDITMSG",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/php/contact.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/index.html",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/mail.php",
+		"/Applications/MAMP/htdocs/miskeyz_site_web/contact.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/miskeyz/.git/COMMIT_EDITMSG",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/pages/_contact.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/jquery/caroussel.js",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/utils/_variables.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/utils/_mixins.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/base/_typography.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/pages/_musiques.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/layout/_content.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/base/_base.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/sass/main.scss",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/mail.php",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/photos.html",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/musiques.html",
+		"/Applications/MAMP/htdocs/Miskeyz - Site Web/videos.html",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/index.html",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/php/mail.php",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/layout/_contact.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/pages/_musiques.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/pages/_photos.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/pages/_videos.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/layout/_footer.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/layout/_content.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/SASS/layout/_header.scss",
+		"/Users/thibaultchardigny/Downloads/bootstrap-4.5.2-dist/css/bootstrap.css",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/utils/_variables.scss",
+		"/Users/thibaultchardigny/Downloads/bootstrap-4.5.2-dist/css/bootstrap.min.css",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/sass/base/_base.scss",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/package.json",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/V2/CSS/style.css",
+		"/Users/thibaultchardigny/Dropbox/MISKEYZ/Site/style.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/SASS/main.scss",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/index.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/menu_3.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/menu_2.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/menu_4.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/menu_1.html",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/SASS/pages/_menu.scss",
+		"/Users/thibaultchardigny/Dropbox/Formation - OCR/Projet 3 - Dynamisez une page web avec des animations CSS/Cours/Animations CSS/style.css",
+		"/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_28092020/CSS/style.css",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/style.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/index.html",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/partials/_sun.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/partials/_road.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/partials/_hill.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/partials/_car.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/scss/partials/_balloon.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-3-activity/css/style.css",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/README.md",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-2-activity/index.html",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-2-activity/scss/style.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-2-activity/scss/partials/_flashcard.scss",
+		"/Users/thibaultchardigny/Downloads/openclassrooms_css-animations-master/part-2-activity/package.json"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/menu_4.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/base/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_fonctionnement.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_restaurants.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "_search.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/components/_button.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/components/_loader.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/pages/_menu.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/utils/_mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Users/thibaultchardigny/Desktop/OCR PROJECTS/ThibaultChardigny_3_05102020/SASS/utils/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "P3-OCR.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -41,7 +41,7 @@
 			transform: translate(-47%, -50%);
 			counter-reset: loading;
 			animation: compteur $compteur-time forwards;
-			content: counter(loading) '%';
+			content: $counter-content;
 			font-size: 0.8em;
 		}
 	}
