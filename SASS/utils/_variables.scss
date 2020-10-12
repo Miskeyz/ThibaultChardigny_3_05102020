@@ -18,7 +18,7 @@ $logo-size: 2em;
 $h3-size: 1em;
 $icon-size: 1.45em;
 
-$desktop-size: 1200px;
+$desktop-size: 1100px;
 $loader-circle-size: 20px;
 
 $transition-time: 300ms;
@@ -33,4 +33,8 @@ $compteur-time: 3s;
 $fade-out: 500ms;
 $heart-time: 1000ms;
 
-$counter-content: counter(loading) '%';
+$breakpoints: 
+(
+	tablette: 600px,
+	desktop: 1200px
+);

@@ -29,7 +29,7 @@
 
 		@include desktop-only
 		{
-			width: 75%;
+			width: $desktop-size;
 			margin: auto;
 		}
 	}
