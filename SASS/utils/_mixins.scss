@@ -35,7 +35,7 @@
 
 @mixin tablette-only
 {
-	@media screen and (min-width: 600px)
+	@media screen and (min-width: map-get($breakpoints, tablette))
 	{
 		@content;
 	}
@@ -43,7 +43,7 @@
 
 @mixin desktop-only
 {
-	@media screen and (min-width: 1200px)
+	@media screen and (min-width: map-get($breakpoints, desktop))
 	{
 		@content;
 	}
@@ -77,17 +77,6 @@
 	100%
 	{
 		transform: translate(-50%, -50%) rotate(0deg);
-	}
-}
-
-@keyframes compteur
-{
-	@for $i from 1 through 100
-	{
-		#{$i}%
-		{
-			counter-increment: loading #{$i};
-		}
 	}
 }
 

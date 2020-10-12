@@ -10,6 +10,7 @@
 	&__img
 	{
 		width: 100%;
+		height: 250px;
 		z-index: -1;
 		object-fit: cover;
 
@@ -74,30 +75,6 @@
 		}
 	}
 
-	&__icon-bg
-	{
-		top: 37px;
-		right: 19px;
-
-		@include tablette-only
-		{
-			top: 37px;
-			right: 29px;
-		}
-	}
-
-	&__icon
-	{
-		top: 39px;
-		right: 20px;
-
-		@include tablette-only
-		{
-			top: 39px;
-			right: 30px;
-		}
-	}
-
 	&__sub-heading
 	{
 		text-transform: uppercase;
@@ -145,22 +122,24 @@
 
 	&__btn
 	{
-		text-align: center;	
+		text-align: center;
 	}
 
 	&__pink-btn
 	{
+		margin-top: 20px;
 		padding-left: 50px;
 		padding-right: 50px;
 	}
 
 	&__flex
 	{
-
 		@include desktop-only
 		{
 			display: flex;
-			justify-content: center;
+			justify-content: space-between;
+			width: $desktop-size;
+			margin: auto;
 		}
 	}
 }
@@ -196,7 +175,7 @@
 
 	@include desktop-only
 	{
-		width: 350px;
+		width: 310px;
 	}
 
 	&:hover &__prix
