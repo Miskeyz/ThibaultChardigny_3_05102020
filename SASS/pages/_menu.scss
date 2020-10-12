@@ -4,7 +4,6 @@
 
 	@include desktop-only
 	{
-		width: $desktop-size + 40px;
 		margin: auto;
 	}
 
@@ -21,16 +20,21 @@
 			border-radius: 20px 20px 0 0;
 		}
 
+		@include desktop-only
+		{
+			object-position: 50% 62%;
+		}
+
 		&--note
 		{
-			@include desktop-only
-			{
-				object-position: 50% 60%;
-			}
-
 			@include tablette-only
 			{
 				object-position: 50% 63.5%;
+			}
+
+			@include desktop-only
+			{
+				object-position: 50% 60%;
 			}
 		}
 
@@ -43,7 +47,7 @@
 
 			@include desktop-only
 			{
-				object-position: 50% 80%;
+				object-position: 50% 65%;
 			}
 		}
 	}
@@ -132,6 +136,11 @@
 	&__parts
 	{
 		margin-bottom: 40px;
+
+		@include desktop-only
+		{
+			margin: 0 10px 30px 10px;
+		}
 	}
 
 	&__btn
@@ -147,10 +156,11 @@
 
 	&__flex
 	{
+
 		@include desktop-only
 		{
 			display: flex;
-			justify-content: space-between;
+			justify-content: center;
 		}
 	}
 }
