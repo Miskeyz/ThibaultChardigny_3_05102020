@@ -32,18 +32,6 @@
 		transform: translateY(-50%);
 		text-align: center;
 		position: relative;
-
-		&::after
-		{
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			transform: translate(-47%, -50%);
-			counter-reset: loading;
-			animation: compteur $compteur-time forwards;
-			content: $counter-content;
-			font-size: 0.8em;
-		}
 	}
 
 	&__circle
